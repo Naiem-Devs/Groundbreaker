@@ -1,0 +1,63 @@
+
+@font-face {
+    font-family: 'Kade';
+    src: url('../font-family/Kade-Bold.woff2') format('woff2'),
+        url('../font-family/Kade-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kade';
+    src: url('../font-family/Kade-Medium.woff2') format('woff2'),
+        url('../font-family/Kade-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kade';
+    src: url('../font-family/Kade-Regular.woff2') format('woff2'),
+        url('../font-family/Kade-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'New Frank';
+    src: url('../font-family/NewFrank-Light.woff2') format('woff2'),
+        url('../font-family/NewFrank-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'New Frank';
+    src: url('../font-family/NewFrank-Regular.woff2') format('woff2'),
+        url('../font-family/NewFrank-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'New Frank';
+    src: url('../font-family/NewFrank-Medium.woff2') format('woff2'),
+        url('../font-family/NewFrank-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'New Frank';
+    src: url('../font-family/NewFrank-Bold.woff2') format('woff2'),
+        url('../font-family/NewFrank-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
