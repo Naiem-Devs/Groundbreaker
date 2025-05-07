@@ -325,6 +325,10 @@
         margin-top: 30px;
     }
 
+.blog-area .swiper__nav {
+    margin-top: -20px;
+}
+
     .f-90 {
         font-size: 66px;
     }
@@ -447,6 +451,10 @@
     .pb_100 {
         padding-bottom: 50px;
     }
+
+.gap-40 {
+    gap: 40px 0;
+}
     
     .histry__content {
         padding-left: 0px;
@@ -552,7 +560,7 @@
     margin-bottom: 20px;
 }
 .cnn__content {
-    margin-top: -30px;
+    margin-top: -16px;
     margin-bottom: 30px;
 }
 
