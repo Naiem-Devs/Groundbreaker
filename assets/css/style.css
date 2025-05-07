@@ -960,8 +960,7 @@ li {
 /*============INSUduction Area Start =============*/
 
 .INS__cover {border-radius: 10px;overflow: hidden;}
-.col-lg-4 {
-}
+
 .INS__left {background: #F8F8F8;border-radius: 10px;padding: 32px;}
 
 .INS__left .feature__blk ul {
@@ -1023,14 +1022,11 @@ li {
 
 
 /*============Connection Area Start =============*/
-.Connection-area {
-}
 
 .Connection-area .row {
     gap: 50px 0;
 }
-.row {
-}
+
 .cnn__img {background: #B7F6FF;border-radius: 10px;max-width: 280px;}
 
 .cnn__img.v2 {
